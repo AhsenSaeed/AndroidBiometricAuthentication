@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FingerPrint Authentication</string>
+    <string name="tap_to_select_finger_print">Tap to select finger print</string>
+</resources>
